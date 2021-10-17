@@ -16,3 +16,5 @@ Install the dependencis :
 
 For run in the local :
 npm run dev
+
+For access to the project in local : localhost:5000
