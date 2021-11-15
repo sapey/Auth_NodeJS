@@ -1,5 +1,8 @@
 # Auth_NodeJS
 
+Chatbox in Local with many channels
+
+# Launch project
 For start the project write in the terminal :
 - npm init -y (for create package.json file)
 
